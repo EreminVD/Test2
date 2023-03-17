@@ -1,0 +1,20 @@
+
+.body2 {
+ height: 1040px;
+}
+.zag1 {
+    margin-left: 10%;
+    margin-top: 6%;
+    color: aliceblue;
+}
+.zag2 {
+    margin-left: 10%;
+    color: aliceblue;
+}
+.but {
+    margin-left: 10%;
+    margin-top: 2%;
+}
+header {
+    background-color: grey;
+}
